@@ -1,8 +1,6 @@
 # OID-DataPlatform Backend Part
 A data platform project realized by Vue.js, Node.js and Express.js
 
-# OID Data Platform Doc
-
 **Features:**
 
 (* means this feature is pending to be done)
